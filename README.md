@@ -6,7 +6,7 @@ PawPal+ is a pet care management app I built using Python and Streamlit. It help
 
 ## 📸 Demo
 
-![PawPal App](uml_final.png)
+![PawPal App](app_screenshot.png)
 
 ---
 
